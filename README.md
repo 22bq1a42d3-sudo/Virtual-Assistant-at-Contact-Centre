@@ -137,7 +137,25 @@ To run both the frontend and backend servers concurrently, use the provided scri
 This will start the backend server (typically on `http://localhost:5000`) and the React frontend development server (typically on `http://localhost:3000`).
 
 ---
-# Made with love ❤️ by me and my ❤️
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/22bq1a42d3-sudo.png" width="120" height="120" style="border-radius: 50%" alt="Tejaswi's Avatar"/>
+      <h3>Tejaswi</h3>
+      <p>💡 Passionate Developer <br/> 🚀 Clean Code Advocate</p>
+      <a href="https://github.com/22bq1a42d3-sudo">
+        <img src="https://img.shields.io/badge/GitHub-22bq1a42d3--sudo-black?logo=github&style=for-the-badge" alt="GitHub Profile"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 ## 📄 License
 
